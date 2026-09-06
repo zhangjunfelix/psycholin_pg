@@ -5,7 +5,7 @@ title: "Welcome"
 ---
 
 
-# 🧠 Welcome to *Introduction to Psycholinguistics*
+# 🧠 Welcome to *Psycholinguistics: Theory, Methods, and Research*
 
 Language is one of the most fascinating and powerful tools humans possess — but how do we use it so effortlessly every day? How do infants go from babbling to fluent speech? Why do we sometimes struggle to find the right words, or stumble over sentences we've said a hundred times before?
 

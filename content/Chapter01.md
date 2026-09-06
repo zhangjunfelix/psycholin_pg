@@ -7,7 +7,7 @@ weight = 3
 
 
 ## 📘 Overview
-Welcome to *Introduction to Psycholinguistics*! This week, we begin by exploring what psycholinguistics is, what questions it asks, and how it connects to other fields. You’ll learn about what makes human language unique and how language relates to cognition, evolution, and communication.
+Welcome to *Psycholinguistics: Theory, Methods, and Research*! This week, we begin by exploring what psycholinguistics is, what questions it asks, and how it connects to other fields. You’ll learn about what makes human language unique and how language relates to cognition, evolution, and communication.
 
 We’ll also discuss myths about language, compare human and non-human communication systems, and learn how language may (or may not) shape the way we think.
 
@@ -25,7 +25,7 @@ By the end of Week 1, you should be able to:
 
 ## 📖 Required Reading
 - **Chapter 1 (pp. 1–31)** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
-[Link to Chapter 1](/psycholinguistics/pdfs/C1.pdf)
+[Link to Chapter 1](/psycholin_pg/pdfs/C1.pdf)
 
 ---
 
