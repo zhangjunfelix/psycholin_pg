@@ -8,5 +8,33 @@
     <language>en-us</language>
     <copyright>© Zhang Jun</copyright>
     <atom:link href="https://zhangjunfelix.github.io/psycholin_pg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiment</title>
+      <link>https://zhangjunfelix.github.io/psycholin_pg/tags/experiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhangjunfelix.github.io/psycholin_pg/tags/experiment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hands-on Practice</title>
+      <link>https://zhangjunfelix.github.io/psycholin_pg/tags/hands-on-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhangjunfelix.github.io/psycholin_pg/tags/hands-on-practice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psycholinguistics</title>
+      <link>https://zhangjunfelix.github.io/psycholin_pg/tags/psycholinguistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhangjunfelix.github.io/psycholin_pg/tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Methods</title>
+      <link>https://zhangjunfelix.github.io/psycholin_pg/tags/research-methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhangjunfelix.github.io/psycholin_pg/tags/research-methods/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
