@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/exppreclass/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
     <loc>https://zhangjunfelix.github.io/psycholin_pg/chapter01/</loc>
     <lastmod>2025-04-25T10:03:44-04:00</lastmod>
   </url><url>
@@ -40,13 +43,38 @@
   </url><url>
     <loc>https://zhangjunfelix.github.io/psycholin_pg/qs1/</loc>
   </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/categories/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/experimental-design/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/categories/experimental-methods/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/garden-path-sentences/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/categories/introduction-to-psycholinguistics/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/pre-class-preparation/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/research-article/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/self-paced-reading/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/</loc>
+    <lastmod>2026-10-18T16:30:00+08:00</lastmod>
+  </url><url>
     <loc>https://zhangjunfelix.github.io/psycholin_pg/syllabus/</loc>
     <lastmod>2025-04-18T10:03:44-04:00</lastmod>
   </url><url>
     <loc>https://zhangjunfelix.github.io/psycholin_pg/</loc>
     <lastmod>2025-04-18T10:03:32-04:00</lastmod>
-  </url><url>
-    <loc>https://zhangjunfelix.github.io/psycholin_pg/categories/</loc>
   </url><url>
     <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/experiment/</loc>
   </url><url>
@@ -55,7 +83,5 @@
     <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/psycholinguistics/</loc>
   </url><url>
     <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/research-methods/</loc>
-  </url><url>
-    <loc>https://zhangjunfelix.github.io/psycholin_pg/tags/</loc>
   </url>
 </urlset>
